@@ -1,0 +1,5 @@
+.Body{
+    background: rgb(255,255,255);
+    background: linear-gradient(187deg, rgba(255,255,255,1) 44%, rgba(139,153,156,1) 100%);
+    size: 100vh;
+}
